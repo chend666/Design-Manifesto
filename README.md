@@ -56,6 +56,7 @@ This is my favorite one in [Design for wellbeing](https://medium.com/@castiel199
 In conclusion, the five main points above are what I think defines my design process, which will help you create a useful and creative design if you follow each point carefully. Also, I will introduce those key concept to someone who never takes human computer interactive. After this course, I have a clear sense in design process, which shows a new scenario of the design in the real world.
 
 There are the links for the design I made in this course:
+
 [Design for others](https://medium.com/@gyang2518/group-17-design-documentation-fb06fab4fe7a)
 
 [Design for understanding](https://medium.com/@castiel199911/design-for-understanding-94c978a46b)
